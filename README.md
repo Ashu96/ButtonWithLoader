@@ -1,2 +1,0 @@
-# ButtonWithLoader
-Created with CodeSandbox
